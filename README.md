@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tony+Tran+%F0%9F%91%8B;Senior+Software+Engineer;Flutter+%7C+Node.js+%7C+TypeScript;Be+the+Senior+you+needed+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tony+Tran+%F0%9F%91%8B;Senior+Software+Engineer;Flutter+%7C+Node.js+%7C+TypeScript;Be+the+Senior+you+needed+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -63,15 +63,15 @@ I specialize in cross-platform mobile development and backend engineering — bu
 
 <div align="center">
 
-![followers](https://img.shields.io/github/followers/manhtuan1712?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Followers)
-![stars](https://img.shields.io/github/stars/manhtuan1712?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Total%20Stars)
-![repos](https://img.shields.io/badge/Public%20Repos-39-58A6FF?style=for-the-badge&labelColor=0d1117)
-![experience](https://img.shields.io/badge/Experience-8%2B%20Years-58A6FF?style=for-the-badge&labelColor=0d1117)
+![followers](https://img.shields.io/github/followers/manhtuan1712?style=for-the-badge&color=2ECC71&labelColor=0d1117&label=Followers)
+![stars](https://img.shields.io/github/stars/manhtuan1712?style=for-the-badge&color=2ECC71&labelColor=0d1117&label=Total%20Stars)
+![repos](https://img.shields.io/badge/Public%20Repos-39-2ECC71?style=for-the-badge&labelColor=0d1117)
+![experience](https://img.shields.io/badge/Experience-8%2B%20Years-2ECC71?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
 <!-- Activity Graph - reliable alternative to stats cards -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manhtuan1712&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manhtuan1712&theme=github-compact&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=ffffff" alt="activity graph" width="100%"/>
 
 <br/>
 
@@ -95,7 +95,7 @@ I specialize in cross-platform mobile development and backend engineering — bu
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=manhtuan1712&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=manhtuan1712&color=2ECC71&style=for-the-badge&label=PROFILE+VIEWS)
 
 *Thanks for stopping by — feel free to reach out!* 🚀
 
