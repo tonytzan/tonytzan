@@ -35,7 +35,7 @@ I'm a **Senior Mobile Developer & Technical Lead** based in **Ho Chi Minh City, 
 Nine years across **Flutter, Android (Kotlin/Java), and iOS (Swift)** — I rebuild apps from the ground up, define the architecture, and lead teams. From CleverCards' **#1 Finance App** ranking in Ireland to Shipeace's **$1.5M VC raise**, I pair deep engineering discipline with an **AI-augmented, spec-driven** way of working.
 
 - 🏢 **Senior Mobile Developer** at [CleverCards](https://clevercards.com) — #1 Finance App in App Store Ireland
-- 🤝 **Consultant** at [Shipeace](https://shipeace.com) — AI-powered maritime logistics platform
+- 🤝 **Consultant** at [Shipeace](https://www.shipeace.com/en) — AI-powered maritime logistics platform
 - 🌱 **Consultant** at [Arki Finance](https://arkifinance.com) — MAS-licensed wealth platform, Singapore
 - 🤖 Daily user of **Claude, GitHub Copilot & OpenAI Codex** — spec-driven, AI-augmented engineering
 - ✌️ *"Be the Senior you needed when you were a Junior"*
