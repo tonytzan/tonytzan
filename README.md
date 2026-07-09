@@ -101,14 +101,14 @@ I write the spec before I write the code — the spec becomes the contract, the 
 
 <div align="center">
 
-![followers](https://img.shields.io/github/followers/manhtuan1712?style=flat-square&color=39D353&labelColor=0d1117&label=followers)
-![stars](https://img.shields.io/github/stars/manhtuan1712?style=flat-square&color=39D353&labelColor=0d1117&label=stars)
+![followers](https://img.shields.io/github/followers/tonytzan?style=flat-square&color=39D353&labelColor=0d1117&label=followers)
+![stars](https://img.shields.io/github/stars/tonytzan?style=flat-square&color=39D353&labelColor=0d1117&label=stars)
 ![repos](https://img.shields.io/badge/repos-41-39D353?style=flat-square&labelColor=0d1117)
 ![experience](https://img.shields.io/badge/experience-9%2B_years-39D353?style=flat-square&labelColor=0d1117)
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manhtuan1712&theme=github-compact&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=ffffff)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonytzan&theme=github-compact&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=ffffff)
 
-![streak stats](https://streak-stats.demolab.com?user=manhtuan1712&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=8b949e&dates=8b949e&stroke=39D353)
+![streak stats](https://streak-stats.demolab.com?user=tonytzan&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=8b949e&dates=8b949e&stroke=39D353)
 
 </div>
 
