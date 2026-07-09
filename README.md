@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=%24+whoami;Tony+Tran+%E2%80%94+Senior+Mobile+Dev+%2F+Tech+Lead;Flutter+%C2%B7+Android+%C2%B7+iOS+%C2%B7+AI-augmented+eng;%231+Finance+App+%E2%80%94+App+Store+Ireland+%F0%9F%8F%86" alt="typing svg" />
 
 <p>
-  <a href="https://manhtuan1712.github.io"><img src="https://api.iconify.design/simple-icons/googlechrome.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/portfolio-39D353?style=flat-square"/></a>
+  <a href="https://tonytzang.github.io"><img src="https://api.iconify.design/simple-icons/googlechrome.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/portfolio-39D353?style=flat-square"/></a>
   <a href="https://www.linkedin.com/in/tuantranmanh/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/linkedin-39D353?style=flat-square"/></a>
   <a href="https://twitter.com/tonytranyp"><img src="https://api.iconify.design/simple-icons/x.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/x%2Ftwitter-39D353?style=flat-square"/></a>
   <a href="mailto:manhtuan17121994@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/email-39D353?style=flat-square"/></a>
