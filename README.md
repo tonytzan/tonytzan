@@ -90,7 +90,7 @@ I write the spec before I write the code — the spec becomes the contract, the 
 | app | what it is | links |
 |---|---|---|
 | 💳 CleverCards | #1 Finance App, App Store Ireland · Apple Pay & Google Pay | [App Store](https://apps.apple.com/us/app/clevercards/id1521860373) · [Google Play](https://play.google.com/store/apps/details?id=com.clevercards.clevercash) |
-| 🚢 Shipeace | AI-powered logistics ops platform · web & mobile | [Website](https://shipeace.com) · [Google Play](https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app) |
+| 🚢 Shipeace | AI-powered logistics ops platform · web & mobile | [Website](https://www.shipeace.com/en) · [Google Play](https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app) |
 | 🥾 ACKTrails | Trail-exploration app · Nantucket Conservation Foundation | [App Store](https://apps.apple.com/us/app/acktrails/id1462021860) · [Google Play](https://play.google.com/store/apps/details?id=com.nantucket.acktrails.android) |
 
 ---
