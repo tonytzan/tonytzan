@@ -105,8 +105,6 @@ Agents write the code. I set the spec, approve the plan and review every diff be
 | 💳 CleverCards | #1 Finance App, App Store Ireland · 99% crash-free, three peak Christmas seasons at 30–50k DAU | [App Store](https://apps.apple.com/us/app/clevercards/id1521860373) · [Google Play](https://play.google.com/store/apps/details?id=com.clevercards.clevercash) · [Website](https://www.clevercards.com/) |
 | 🚢 Shipeace | AI logistics platform · led mobile, introduced the AI-augmented process · $1.5M raised | [Website](https://www.shipeace.com/en) · [Google Play](https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app) |
 | 🏦 Arki Finance | MAS-licensed wealth platform · frontend lead on the mobile app | [App Store](https://apps.apple.com/sg/app/arki-finance/id6733229005) · [Google Play](https://play.google.com/store/apps/details?id=com.optimalvest&hl=en) · [Website](https://www.arkifinance.com/) |
-| 📊 SnapEx | Crypto derivatives exchange · rebuilt solo in Flutter as mobile tech lead | — |
-| 🥾 ACKTrails | Trail-exploration app · Nantucket Conservation Foundation | [App Store](https://apps.apple.com/us/app/acktrails/id1462021860) · [Google Play](https://play.google.com/store/apps/details?id=com.nantucket.acktrails.android) · [Website](https://acktrails.com/) |
 
 ---
 
