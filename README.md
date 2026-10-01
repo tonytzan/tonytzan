@@ -100,11 +100,25 @@ Agents write the code. I set the spec, approve the plan and review every diff be
 
 ### `~/projects`
 
-| app | what it is | links |
-|---|---|---|
-| 💳 CleverCards | #1 Finance App, App Store Ireland · 99% crash-free, three peak Christmas seasons at 30–50k DAU | [App Store](https://apps.apple.com/us/app/clevercards/id1521860373) · [Google Play](https://play.google.com/store/apps/details?id=com.clevercards.clevercash) · [Website](https://www.clevercards.com/) |
-| 🚢 Shipeace | AI logistics platform · led mobile, introduced the AI-augmented process · $1.5M raised | [Website](https://www.shipeace.com/en) · [Google Play](https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app) |
-| 🏦 Arki Finance | MAS-licensed wealth platform · frontend lead on the mobile app | [App Store](https://apps.apple.com/sg/app/arki-finance/id6733229005) · [Google Play](https://play.google.com/store/apps/details?id=com.optimalvest&hl=en) · [Website](https://www.arkifinance.com/) |
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<strong>💳 CleverCards</strong><br/>
+<sub>#1 Finance App<br/>App Store Ireland · 99% crash-free</sub><br/><br/>
+<a href="https://apps.apple.com/us/app/clevercards/id1521860373">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google Play</a><br/><a href="https://www.clevercards.com/">Website</a>
+</td>
+<td align="center" valign="top" width="33%">
+<strong>🚢 Shipeace</strong><br/>
+<sub>AI logistics platform<br/>$1.5M raised</sub><br/><br/>
+<a href="https://www.shipeace.com/en">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app">Google Play</a><br/>&nbsp;
+</td>
+<td align="center" valign="top" width="33%">
+<strong>🏦 Arki Finance</strong><br/>
+<sub>MAS-licensed wealth app<br/>frontend lead</sub><br/><br/>
+<a href="https://apps.apple.com/sg/app/arki-finance/id6733229005">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.optimalvest&amp;hl=en">Google Play</a><br/><a href="https://www.arkifinance.com/">Website</a>
+</td>
+</tr>
+</table>
 
 ---
 
