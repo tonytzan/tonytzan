@@ -100,11 +100,13 @@ Agents write the code. I set the spec, approve the plan and review every diff be
 
 ### `~/projects`
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
 <strong>💳 CleverCards</strong><br/>
-<sub>#1 Finance App<br/>App Store Ireland · 99% crash-free</sub><br/><br/>
+<sub>#1 Finance App, Ireland<br/>99% crash-free</sub><br/><br/>
 <a href="https://apps.apple.com/us/app/clevercards/id1521860373">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google Play</a><br/><a href="https://www.clevercards.com/">Website</a>
 </td>
 <td align="center" valign="top" width="33%">
@@ -119,6 +121,8 @@ Agents write the code. I set the spec, approve the plan and review every diff be
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
