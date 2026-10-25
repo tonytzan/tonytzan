@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Tony+Tran+%E2%80%94+AI+Full-Stack+Engineer;Flutter+%C2%B7+Node%2FTS+%C2%B7+React+%C2%B7+agentic+harness;%231+Finance+App+%E2%80%94+App+Store+Ireland+%F0%9F%8F%86" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Tony+Tran+%E2%80%94+Senior+Software+Engineer+%28AI-Native%29;Flutter+%C2%B7+Node%2FTS+%C2%B7+React+%C2%B7+agentic+harness;%231+Finance+App+%E2%80%94+App+Store+Ireland+%F0%9F%8F%86" alt="typing svg" />
 
 <p>
   <a href="https://tonytzan.github.io"><img src="https://api.iconify.design/simple-icons/googlechrome.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/portfolio-39D353?style=flat-square"/></a>
@@ -14,10 +14,10 @@
 
 ```bash
 $ cat about.md
-AI Full-Stack Engineer. 9 years in mobile, now building across the whole
-product — Flutter apps, Node.js/TypeScript services and web — through a
-spec-driven agentic harness with a human gate at every decision that
-matters. Based in Ho Chi Minh City, open to remote.
+Senior Software Engineer (AI-Native). 9 years in mobile, now building
+across the whole product — Flutter apps, Node.js/TypeScript services and
+web — through a spec-driven agentic harness with a human gate at every
+decision that matters. Based in Ho Chi Minh City, open to remote.
 
 $ ls ~/roles
 Senior Full Stack Engineer, AI-First  @ CleverCards    #1 Finance App, App Store Ireland
@@ -44,24 +44,31 @@ $ echo $MOTTO
 
 ### `~/harness`
 
-Agents write the code. I set the spec, approve the plan and review every diff before it ships — custom Claude Code slash commands for each SDLC stage.
+I run feature work through a team of Claude Code subagents — an advisor, an architect, builders and a reviewer, each pinned to the model and effort its job needs — driven by slash commands for every stage of a spec lifecycle. They draft, build and audit. I approve the brief, approve the spec and accept what ships.
 
 ```text
-01 spec      PM design → spec + acceptance criteria     agent
-02 ◆ gate    you approve the spec                       human
-03 plan      agent splits work by layer                 agent
-04 ◆ gate    you approve the plan                       human
-05 build     flutter · java ∥ node api ∥ react          agents, parallel
-06 verify    tests · lint · AI review                   agent
-07 ◆ gate    you review the diff                        human
-08 ship      CI/CD → stores · GCP · AWS · Vercel
+01 brief     problem, outcome, evidence                 agent
+02 ◆ gate    you approve the brief                      human
+03 design    requirements · design · tasks              agent
+04 review    fresh-context spec review                  agent
+05 ◆ gate    you approve the spec                       human
+06 build     one builder per task                       agents
+07 audit     diff vs design · green / yellow / red      agent
+08 ◆ gate    you accept → CI/CD ships                   human
 ```
+
+```text
+team   Advisor · Fable xhigh     Architect · Opus xhigh     Builder · Sonnet high
+       Reviewer · Opus high      Me · gatekeeper
+```
+
+**200+** tests, run in CI on Linux, macOS & Windows · **3** review rounds at most per spec, then I decide · **4 · 17 · 5** agents, skills & hooks in one repo, identical on two machines
 
 | | |
 |---|---|
 | 📐 specs are the contract | specs first, code second — agents implement against it, I review against it |
-| 🧑‍⚖️ humans own the decisions | agents carry scaffolding, refactors & tests; architecture, trade-offs and anything touching money or user data go through me |
-| 🚀 guardrails that scale to teams | typed contracts, test gates & review checklists — packaged so the whole team runs the same workflow |
+| 🧑‍⚖️ humans own the decisions | the reviewer never judges its own work, and acceptance stays mine: no merge, deploy or "Approved" without me |
+| 🚀 guardrails that scale to teams | hooks that refuse writes to `.env` & `.git`, a spec-gate check, and a self-testing sync that rolls itself back — one repo, so a team can run the same workflow |
 
 ---
 
@@ -106,7 +113,7 @@ Agents write the code. I set the spec, approve the plan and review every diff be
 <tr>
 <td align="center" valign="top" width="33%">
 <strong>💳 CleverCards</strong><br/>
-<sub>#1 Finance App, Ireland<br/>99% crash-free</sub><br/><br/>
+<sub>#1 Finance App, Ireland<br/>99% crash-free · Stripe</sub><br/><br/>
 <a href="https://apps.apple.com/us/app/clevercards/id1521860373">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google Play</a><br/><a href="https://www.clevercards.com/">Website</a>
 </td>
 <td align="center" valign="top" width="33%">
