@@ -46,21 +46,11 @@ $ echo $MOTTO
 
 I run feature work through a team of Claude Code subagents — an advisor, an architect, builders and a reviewer, each pinned to the model and effort its job needs — driven by slash commands for every stage of a spec lifecycle. They draft, build and audit. I approve the brief, approve the spec and accept what ships.
 
-```text
-01 brief     problem, outcome, evidence                 agent
-02 ◆ gate    you approve the brief                      human
-03 design    requirements · design · tasks              agent
-04 review    fresh-context spec review                  agent
-05 ◆ gate    you approve the spec                       human
-06 build     one builder per task                       agents
-07 audit     diff vs design · green / yellow / red      agent
-08 ◆ gate    you accept → CI/CD ships                   human
-```
+<div align="center">
 
-```text
-team   Advisor · Fable xhigh     Architect · Opus xhigh     Builder · Sonnet high
-       Reviewer · Opus high      Me · gatekeeper
-```
+<img src="assets/harness.svg" alt="Animated harness flow: agents (Claude Code, Advisor, Architect, Builder, Reviewer) walk through brief, design, review, build, audit and ship, with human gates at brief, spec and accept." width="880" />
+
+</div>
 
 **200+** tests, run in CI on Linux, macOS & Windows · **3** review rounds at most per spec, then I decide · **4 · 17 · 5** agents, skills & hooks in one repo, identical on two machines
 
