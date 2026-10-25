@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Tony+Tran+%E2%80%94+Senior+Software+Engineer+%28AI-Native%29;Flutter+%C2%B7+Node%2FTS+%C2%B7+React+%C2%B7+agentic+harness;%231+Finance+App+%E2%80%94+App+Store+Ireland+%F0%9F%8F%86" alt="typing svg" />
 
+<img src="assets/header.svg" alt="Header animation: a small Claude agent bot walks in, suggests something questionable like git push --force, gets told no, reacts, and walks off." width="880" />
+
 <p>
   <a href="https://tonytzan.github.io"><img src="https://api.iconify.design/simple-icons/googlechrome.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/portfolio-39D353?style=flat-square"/></a>
   <a href="https://www.linkedin.com/in/tuantranmanh/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/linkedin-39D353?style=flat-square"/></a>
