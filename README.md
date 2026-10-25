@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Tony+Tran+%E2%80%94+Senior+Software+Engineer+%28AI-Native%29;Flutter+%C2%B7+Node%2FTS+%C2%B7+React+%C2%B7+agentic+harness;%231+Finance+App+%E2%80%94+App+Store+Ireland+%F0%9F%8F%86" alt="typing svg" />
-
-<img src="assets/header.svg" alt="Header animation: a small Claude agent bot walks in, suggests something questionable like git push --force, gets told no, reacts, and walks off." width="880" />
+<img src="assets/header.svg" alt="Tony Tran, Senior Software Engineer (AI-Native). Open to remote in Ho Chi Minh City. A small Claude agent bot walks in, suggests something questionable like git push --force, gets told no, reacts, and walks off." width="880" />
 
 <p>
-  <a href="https://tonytzan.github.io"><img src="https://api.iconify.design/simple-icons/googlechrome.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/portfolio-39D353?style=flat-square"/></a>
-  <a href="https://www.linkedin.com/in/tuantranmanh/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/linkedin-39D353?style=flat-square"/></a>
-  <a href="https://twitter.com/tonytranyp"><img src="https://api.iconify.design/simple-icons/x.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/x%2Ftwitter-39D353?style=flat-square"/></a>
-  <a href="mailto:manhtuan17121994@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/email-39D353?style=flat-square"/></a>
-  <a href="https://tonytzan.github.io/docs/Tuan_Tran_Manh_CV.pdf"><img src="https://api.iconify.design/simple-icons/readdotcv.svg?color=%2339D353" height="20" alt=""/> <img src="https://img.shields.io/badge/cv-39D353?style=flat-square"/></a>
+  <a href="https://tonytzan.github.io"><img src="https://img.shields.io/badge/portfolio-C8F169?style=flat-square&logo=googlechrome&logoColor=0F100D"/></a>
+  <a href="https://www.linkedin.com/in/tuantranmanh/"><img src="https://img.shields.io/badge/linkedin-23261F?style=flat-square&logo=linkedin&logoColor=C8F169"/></a>
+  <a href="https://twitter.com/tonytranyp"><img src="https://img.shields.io/badge/x%2Ftwitter-23261F?style=flat-square&logo=x&logoColor=C8F169"/></a>
+  <a href="mailto:manhtuan17121994@gmail.com"><img src="https://img.shields.io/badge/email-23261F?style=flat-square&logo=gmail&logoColor=C8F169"/></a>
+  <a href="https://tonytzan.github.io/docs/Tuan_Tran_Manh_CV.pdf"><img src="https://img.shields.io/badge/cv-23261F?style=flat-square&logo=readdotcv&logoColor=C8F169"/></a>
 </p>
 
 </div>
@@ -67,33 +65,33 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 ### `~/stack`
 
 **agentic**
-<img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%2339D353" height="20" alt=""/> ![Claude Code](https://img.shields.io/badge/Claude_Code-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/github.svg?color=%2339D353" height="20" alt=""/> ![Copilot](https://img.shields.io/badge/Copilot-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/openai.svg?color=%2339D353" height="20" alt="OpenAI"/> ![Codex](https://img.shields.io/badge/Codex-39D353?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-23261F?style=flat-square&logo=anthropic&logoColor=C8F169)
+![Copilot](https://img.shields.io/badge/Copilot-23261F?style=flat-square&logo=github&logoColor=C8F169)
+![Codex](https://img.shields.io/badge/Codex-23261F?style=flat-square&logo=openai&logoColor=C8F169)
 
 **mobile**
-<img src="https://api.iconify.design/simple-icons/flutter.svg?color=%2339D353" height="20" alt=""/> ![Flutter](https://img.shields.io/badge/Flutter-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/dart.svg?color=%2339D353" height="20" alt=""/> ![Dart](https://img.shields.io/badge/Dart-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/swift.svg?color=%2339D353" height="20" alt=""/> ![Swift](https://img.shields.io/badge/Swift-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%2339D353" height="20" alt=""/> ![Kotlin](https://img.shields.io/badge/Kotlin-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%2339D353" height="20" alt=""/> ![Java](https://img.shields.io/badge/Java-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/applepay.svg?color=%2339D353" height="20" alt=""/> ![Apple Pay](https://img.shields.io/badge/Apple_Pay-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/googlepay.svg?color=%2339D353" height="20" alt=""/> ![Google Pay](https://img.shields.io/badge/Google_Pay-39D353?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-23261F?style=flat-square&logo=flutter&logoColor=C8F169)
+![Dart](https://img.shields.io/badge/Dart-23261F?style=flat-square&logo=dart&logoColor=C8F169)
+![Swift](https://img.shields.io/badge/Swift-23261F?style=flat-square&logo=swift&logoColor=C8F169)
+![Kotlin](https://img.shields.io/badge/Kotlin-23261F?style=flat-square&logo=kotlin&logoColor=C8F169)
+![Java](https://img.shields.io/badge/Java-23261F?style=flat-square&logo=openjdk&logoColor=C8F169)
+![Apple Pay](https://img.shields.io/badge/Apple_Pay-23261F?style=flat-square&logo=applepay&logoColor=C8F169)
+![Google Pay](https://img.shields.io/badge/Google_Pay-23261F?style=flat-square&logo=googlepay&logoColor=C8F169)
 
 **backend**
-<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%2339D353" height="20" alt=""/> ![Node.js](https://img.shields.io/badge/Node.js-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%2339D353" height="20" alt=""/> ![TypeScript](https://img.shields.io/badge/TypeScript-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/graphql.svg?color=%2339D353" height="20" alt=""/> ![GraphQL](https://img.shields.io/badge/GraphQL-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/python.svg?color=%2339D353" height="20" alt=""/> ![Python](https://img.shields.io/badge/Python-39D353?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-23261F?style=flat-square&logo=nodedotjs&logoColor=C8F169)
+![TypeScript](https://img.shields.io/badge/TypeScript-23261F?style=flat-square&logo=typescript&logoColor=C8F169)
+![GraphQL](https://img.shields.io/badge/GraphQL-23261F?style=flat-square&logo=graphql&logoColor=C8F169)
+![Python](https://img.shields.io/badge/Python-23261F?style=flat-square&logo=python&logoColor=C8F169)
 
 **web & cloud**
-<img src="https://api.iconify.design/simple-icons/react.svg?color=%2339D353" height="20" alt=""/> ![React](https://img.shields.io/badge/React-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%2339D353" height="20" alt=""/> ![Next.js](https://img.shields.io/badge/Next.js-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%2339D353" height="20" alt=""/> ![AWS](https://img.shields.io/badge/AWS-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/googlecloud.svg?color=%2339D353" height="20" alt=""/> ![GCP](https://img.shields.io/badge/GCP-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/firebase.svg?color=%2339D353" height="20" alt=""/> ![Firebase](https://img.shields.io/badge/Firebase-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/vercel.svg?color=%2339D353" height="20" alt=""/> ![Vercel](https://img.shields.io/badge/Vercel-39D353?style=flat-square)
-<img src="https://api.iconify.design/simple-icons/githubactions.svg?color=%2339D353" height="20" alt=""/> ![CI/CD](https://img.shields.io/badge/CI%2FCD-39D353?style=flat-square)
+![React](https://img.shields.io/badge/React-23261F?style=flat-square&logo=react&logoColor=C8F169)
+![Next.js](https://img.shields.io/badge/Next.js-23261F?style=flat-square&logo=nextdotjs&logoColor=C8F169)
+![AWS](https://img.shields.io/badge/AWS-23261F?style=flat-square&logo=amazonaws&logoColor=C8F169)
+![GCP](https://img.shields.io/badge/GCP-23261F?style=flat-square&logo=googlecloud&logoColor=C8F169)
+![Firebase](https://img.shields.io/badge/Firebase-23261F?style=flat-square&logo=firebase&logoColor=C8F169)
+![Vercel](https://img.shields.io/badge/Vercel-23261F?style=flat-square&logo=vercel&logoColor=C8F169)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-23261F?style=flat-square&logo=githubactions&logoColor=C8F169)
 
 ---
 
@@ -104,17 +102,20 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 <table>
 <tr>
 <td align="center" valign="top">
-<strong>💳 CleverCards</strong><br/>
+<img src="assets/logo-clevercards.jpg" width="48" height="48" alt="CleverCards logo" /><br/>
+<strong>CleverCards</strong><br/>
 <sub>#1 Finance App, Ireland<br/>99% crash-free · Stripe</sub><br/><br/>
 <a href="https://apps.apple.com/us/app/clevercards/id1521860373">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google&nbsp;Play</a><br/><a href="https://www.clevercards.com/">Website</a>
 </td>
 <td align="center" valign="top">
-<strong>🚢 Shipeace</strong><br/>
+<img src="assets/logo-shipeace.jpg" width="48" height="48" alt="Shipeace logo" /><br/>
+<strong>Shipeace</strong><br/>
 <sub>AI logistics platform<br/>$1.5M raised</sub><br/><br/>
 <a href="https://www.shipeace.com/en">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app">Google&nbsp;Play</a><br/>&nbsp;
 </td>
 <td align="center" valign="top">
-<strong>🏦 Arki Finance</strong><br/>
+<img src="assets/logo-arki.png" width="48" height="48" alt="Arki Finance logo" /><br/>
+<strong>Arki Finance</strong><br/>
 <sub>MAS-licensed wealth app<br/>frontend lead</sub><br/><br/>
 <a href="https://apps.apple.com/sg/app/arki-finance/id6733229005">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.optimalvest&amp;hl=en">Google&nbsp;Play</a><br/><a href="https://www.arkifinance.com/">Website</a>
 </td>
@@ -129,14 +130,14 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 
 <div align="center">
 
-![followers](https://img.shields.io/github/followers/tonytzan?style=flat-square&color=39D353&labelColor=0d1117&label=followers)
-![stars](https://img.shields.io/github/stars/tonytzan?style=flat-square&color=39D353&labelColor=0d1117&label=stars)
-![repos](https://img.shields.io/badge/repos-41-39D353?style=flat-square&labelColor=0d1117)
-![experience](https://img.shields.io/badge/experience-9%2B_years-39D353?style=flat-square&labelColor=0d1117)
+![followers](https://img.shields.io/github/followers/tonytzan?style=flat-square&color=C8F169&labelColor=0F100D&label=followers)
+![stars](https://img.shields.io/github/stars/tonytzan?style=flat-square&color=C8F169&labelColor=0F100D&label=stars)
+![repos](https://img.shields.io/badge/repos-41-C8F169?style=flat-square&labelColor=0F100D)
+![experience](https://img.shields.io/badge/experience-9%2B_years-C8F169?style=flat-square&labelColor=0F100D)
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonytzan&theme=github-compact&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=ffffff)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonytzan&theme=github-compact&hide_border=true&bg_color=0F100D&color=C8F169&line=C8F169&point=EDEEE8)
 
-![streak stats](https://streak-stats.demolab.com?user=tonytzan&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=8b949e&dates=8b949e&stroke=39D353)
+![streak stats](https://streak-stats.demolab.com?user=tonytzan&hide_border=true&background=0F100D&ring=C8F169&fire=FFB14A&currStreakNum=EDEEE8&sideNums=C8F169&currStreakLabel=C8F169&sideLabels=8C9084&dates=8C9084&stroke=2A2D25)
 
 </div>
 
@@ -148,6 +149,6 @@ $ echo "need a product shipped across mobile, web and backend? reach out any tim
 
 <div align="center">
 
-![visitor count](https://visitor-badge.laobi.icu/badge?page_id=manhtuan1712.manhtuan1712&left_color=gray&right_color=39D353&left_text=profile%20views)
+![visitor count](https://visitor-badge.laobi.icu/badge?page_id=manhtuan1712.manhtuan1712&left_color=23261F&right_color=C8F169&left_text=profile%20views)
 
 </div>
