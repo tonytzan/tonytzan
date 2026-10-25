@@ -101,20 +101,20 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top">
 <strong>💳 CleverCards</strong><br/>
 <sub>#1 Finance App, Ireland<br/>99% crash-free · Stripe</sub><br/><br/>
-<a href="https://apps.apple.com/us/app/clevercards/id1521860373">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google Play</a><br/><a href="https://www.clevercards.com/">Website</a>
+<a href="https://apps.apple.com/us/app/clevercards/id1521860373">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google&nbsp;Play</a><br/><a href="https://www.clevercards.com/">Website</a>
 </td>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top">
 <strong>🚢 Shipeace</strong><br/>
 <sub>AI logistics platform<br/>$1.5M raised</sub><br/><br/>
-<a href="https://www.shipeace.com/en">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app">Google Play</a><br/>&nbsp;
+<a href="https://www.shipeace.com/en">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app">Google&nbsp;Play</a><br/>&nbsp;
 </td>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top">
 <strong>🏦 Arki Finance</strong><br/>
 <sub>MAS-licensed wealth app<br/>frontend lead</sub><br/><br/>
-<a href="https://apps.apple.com/sg/app/arki-finance/id6733229005">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.optimalvest&amp;hl=en">Google Play</a><br/><a href="https://www.arkifinance.com/">Website</a>
+<a href="https://apps.apple.com/sg/app/arki-finance/id6733229005">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.optimalvest&amp;hl=en">Google&nbsp;Play</a><br/><a href="https://www.arkifinance.com/">Website</a>
 </td>
 </tr>
 </table>
