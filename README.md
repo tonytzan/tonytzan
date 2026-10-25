@@ -135,7 +135,10 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 ![repos](https://img.shields.io/badge/repos-41-C8F169?style=flat-square&labelColor=0F100D)
 ![experience](https://img.shields.io/badge/experience-9%2B_years-C8F169?style=flat-square&labelColor=0F100D)
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonytzan&theme=github-compact&hide_border=true&bg_color=0F100D&color=C8F169&line=C8F169&point=EDEEE8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonytzan/tonytzan/output/snake-dark.svg" />
+  <img alt="Contribution snake eating the contribution graph" src="https://raw.githubusercontent.com/tonytzan/tonytzan/output/snake.svg" />
+</picture>
 
 ![streak stats](https://streak-stats.demolab.com?user=tonytzan&hide_border=true&background=0F100D&ring=C8F169&fire=FFB14A&currStreakNum=EDEEE8&sideNums=C8F169&currStreakLabel=C8F169&sideLabels=8C9084&dates=8C9084&stroke=2A2D25)
 
