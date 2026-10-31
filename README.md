@@ -21,7 +21,6 @@ decision that matters. Based in Ho Chi Minh City, open to remote.
 
 $ ls ~/roles
 Senior Full Stack Engineer, AI-First  @ CleverCards    #1 Finance App, App Store Ireland
-Senior Full Stack Engineer, AI-First  @ Arki Finance   MAS-licensed wealth app · consulting
 Senior Full Stack Engineer, AI-First  @ Shipeace       AI logistics platform, $1.5M raised
 
 $ echo $MOTTO
@@ -54,11 +53,34 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 
 **200+** tests, run in CI on Linux, macOS & Windows · **3** review rounds at most per spec, then I decide · **4 · 17 · 5** agents, skills & hooks in one repo, identical on two machines
 
+**Measured:** model and effort pins are checked in the live API request. The repo is private, so happy to walk through it. One thing the measuring turned up: a skill's `model:` line is ignored, so the tiers are applied by agents, not skills.
+
 | | |
 |---|---|
 | 📐 specs are the contract | specs first, code second — agents implement against it, I review against it |
 | 🧑‍⚖️ humans own the decisions | the reviewer never judges its own work, and acceptance stays mine: no merge, deploy or "Approved" without me |
-| 🚀 guardrails that scale to teams | hooks that refuse writes to `.env` & `.git`, a spec-gate check, and a self-testing sync that rolls itself back — one repo, so a team can run the same workflow |
+| 🚀 guardrails that scale to teams | hooks that refuse writes to `.env` & `.git`, a spec-gate check, and a self-testing sync that rolls itself back — the whole workflow lives in one repo, so a team can run the same one |
+
+---
+
+### `~/experience`
+
+```bash
+CleverCards · Dublin, Ireland · fintech                          Feb 2023 — now
+  Senior Full Stack Engineer, AI-First   Feb 2026 — now           -70% working time across Design, Product & Engineering
+  Senior Mobile Developer                Feb 2023 — Jan 2026      99% crash-free · app size -70% · load time -60%
+Shipeace · Singapore · part-time consulting                      Jul 2024 — now
+  Senior Full Stack Engineer, AI-First                            $1.5M raised
+
+# earlier career
+SnapEx            Mobile Tech Lead         Oct 2022 — Jan 2023    solo Flutter rebuild of a crypto exchange app · Hong Kong
+Shuei Trading     Senior Mobile Developer  May 2021 — Sep 2022    +70% active users · +30% engagement · Tokyo
+The Collective C  Senior Mobile Developer  Apr 2020 — Apr 2021    +40% team-wide code quality · HCMC
+Zien Solutions    Software Engineer        Jul 2018 — Apr 2020    full-stack ownership of the AVflow no-code video platform · HCMC
+ARIS Vietnam      Android Developer        Mar 2017 — Jun 2018    first role, native Android · HCMC
+```
+
+<sub>At CleverCards: helped rebuild the flagship app and keep it running through three peak Christmas seasons (hundreds of thousands of transactions a day, 30–50k DAU); architected and built the B2B Mobile SDK (iOS, Android, Flutter) for partners across Ireland, the UK and the US; designed the server-to-server token architecture and the Node.js/TypeScript APIs behind its authentication; built the security-critical layer (biometrics, Keychain/Keystore token storage, jailbreak/root detection, OCR receipt matching); integrated Apple Pay, Google Pay and Stripe; and owned App Store and Play Store submissions. At Shipeace: mobile lead on shipment tracking, RAG and document AI; built the spec-driven, AI-augmented SDLC my agent harness grew out of.</sub>
 
 ---
 
@@ -68,6 +90,9 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 ![Claude Code](https://img.shields.io/badge/Claude_Code-23261F?style=flat-square&logo=anthropic&logoColor=C8F169)
 ![Copilot](https://img.shields.io/badge/Copilot-23261F?style=flat-square&logo=github&logoColor=C8F169)
 ![Codex](https://img.shields.io/badge/Codex-23261F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSIjQzhGMTY5IiBkPSJNMjAuNTYyIDEwLjE4OGMuMjUtLjY4OC4zMTMtMS4zNzYuMjUtMi4wNjNjLS4wNjItLjY4Ny0uMzEyLTEuMzc1LS42MjUtMmMtLjU2Mi0uOTM3LTEuMzc1LTEuNjg3LTIuMzEyLTIuMTI1Yy0xLS40MzctMi4wNjMtLjU2Mi0zLjEyNS0uMzEyYy0uNS0uNS0xLjA2My0uOTM4LTEuNjg4LTEuMjVTMTEuNjg3IDIgMTEgMmE1LjE3IDUuMTcgMCAwIDAtMyAuOTM4Yy0uODc1LjYyNC0xLjUgMS41LTEuODEzIDIuNWMtLjc1LjE4Ny0xLjM3NS41LTIgLjg3NWMtLjU2Mi40MzctMSAxLTEuMzc1IDEuNTYyYy0uNTYyLjkzOC0uNzUgMi0uNjI1IDMuMDYzYTUuNDQgNS40NCAwIDAgMCAxLjI1IDIuODc0YTQuNyA0LjcgMCAwIDAtLjI1IDIuMDYzYy4wNjMuNjg4LjMxMyAxLjM3NS42MjUgMmMuNTYzLjkzOCAxLjM3NSAxLjY4OCAyLjMxMyAyLjEyNWMxIC40MzggMi4wNjIuNTYzIDMuMTI1LjMxM2MuNS41IDEuMDYyLjkzNyAxLjY4NyAxLjI1UzEyLjMxMiAyMiAxMyAyMmE1LjE3IDUuMTcgMCAwIDAgMy0uOTM3Yy44NzUtLjYyNSAxLjUtMS41IDEuODEyLTIuNWE0LjU0IDQuNTQgMCAwIDAgMS45MzgtLjg3NWMuNTYyLS40MzggMS4wNjItLjkzOCAxLjM3NS0xLjU2M2MuNTYyLS45MzcuNzUtMiAuNjI1LTMuMDYyYy0uMTI1LTEuMDYzLS41LTIuMDYzLTEuMTg4LTIuODc2bS03LjUgMTAuNWMtMSAwLTEuNzUtLjMxMy0yLjQzNy0uODc1YzAgMCAuMDYyLS4wNjMuMTI1LS4wNjNsNC0yLjMxMmEuNS41IDAgMCAwIC4yNS0uMjVhLjU3LjU3IDAgMCAwIC4wNjItLjMxM1YxMS4yNWwxLjY4OCAxdjQuNjI1YTMuNjg1IDMuNjg1IDAgMCAxLTMuNjg4IDMuODEzTTUgMTcuMjVjLS40MzgtLjc1LS42MjUtMS42MjUtLjQzOC0yLjVjMCAwIC4wNjMuMDYzLjEyNS4wNjNsNCAyLjMxMmEuNTYuNTYgMCAwIDAgLjMxMy4wNjNjLjEyNSAwIC4yNSAwIC4zMTItLjA2M2w0Ljg3NS0yLjgxMnYxLjkzN2wtNC4wNjIgMi4zNzVBMy43IDMuNyAwIDAgMSA3LjMxMiAxOWMtMS0uMjUtMS44MTItLjg3NS0yLjMxMi0xLjc1TTMuOTM3IDguNTYzYTMuOCAzLjggMCAwIDEgMS45MzgtMS42MjZ2NC43NTFjMCAuMTI0IDAgLjI1LjA2Mi4zMTJhLjUuNSAwIDAgMCAuMjUuMjVsNC44NzUgMi44MTNsLTEuNjg3IDFsLTQtMi4zMTNhMy43IDMuNyAwIDAgMS0xLjc1LTIuMjVjLS4yNS0uOTM3LS4xODgtMi4wNjIuMzEyLTIuOTM3TTE3Ljc1IDExLjc1bC00Ljg3NS0yLjgxMmwxLjY4Ny0xbDQgMi4zMTJjLjYyNS4zNzUgMS4xMjUuODc1IDEuNDM4IDEuNXMuNSAxLjMxMy40MzcgMi4wNjNhMy43IDMuNyAwIDAgMS0uNzUgMS45MzdjLS40MzcuNTYzLTEgMS0xLjY4NyAxLjI1di00Ljc1YzAtLjEyNSAwLS4yNS0uMDYzLS4zMTJjMCAwLS4wNjItLjEyNi0uMTg3LS4xODhtMS42ODctMi41cy0uMDYyLS4wNjItLjEyNS0uMDYybC00LTIuMzEzYy0uMTI1LS4wNjItLjE4Ny0uMDYyLS4zMTItLjA2MnMtLjI1IDAtLjMxMy4wNjJMOS44MTIgOS42ODhWNy43NWw0LjA2My0yLjM3NWMuNjI1LS4zNzUgMS4zMTItLjUgMi4wNjItLjVjLjY4OCAwIDEuMzc1LjI1IDIgLjY4OGMuNTYzLjQzNyAxLjA2MyAxIDEuMzEzIDEuNjI1cy4zMTIgMS4zNzUuMTg3IDIuMDYybS0xMC41IDMuNWwtMS42ODctMVY3LjA2M2MwLS42ODguMTg3LTEuNDM4LjU2Mi0yQzguMTg3IDQuNDM4IDguNzUgNCA5LjM3NSAzLjY4OGEzLjM3IDMuMzcgMCAwIDEgMi4wNjItLjMxM2MuNjg4LjA2MyAxLjM3NS4zNzUgMS45MzguODEzYzAgMC0uMDYzLjA2Mi0uMTI1LjA2MmwtNCAyLjMxM2EuNS41IDAgMCAwLS4yNS4yNWMtLjA2My4xMjUtLjA2My4xODctLjA2My4zMTJ6bS44NzUtMkwxMiA5LjVsMi4xODcgMS4yNXYyLjVMMTIgMTQuNWwtMi4xODgtMS4yNXoiLz48L3N2Zz4%3D)
+![Slash commands](https://img.shields.io/badge/Custom_slash_commands-23261F?style=flat-square&logoColor=C8F169)
+![Spec-driven](https://img.shields.io/badge/Spec--driven_dev-23261F?style=flat-square&logoColor=C8F169)
+![AI code review](https://img.shields.io/badge/AI_code_review-23261F?style=flat-square&logoColor=C8F169)
 
 **mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-23261F?style=flat-square&logo=flutter&logoColor=C8F169)
@@ -81,6 +106,7 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 **backend**
 ![Node.js](https://img.shields.io/badge/Node.js-23261F?style=flat-square&logo=nodedotjs&logoColor=C8F169)
 ![TypeScript](https://img.shields.io/badge/TypeScript-23261F?style=flat-square&logo=typescript&logoColor=C8F169)
+![Java](https://img.shields.io/badge/Java-23261F?style=flat-square&logo=openjdk&logoColor=C8F169)
 ![GraphQL](https://img.shields.io/badge/GraphQL-23261F?style=flat-square&logo=graphql&logoColor=C8F169)
 ![Python](https://img.shields.io/badge/Python-23261F?style=flat-square&logo=python&logoColor=C8F169)
 
@@ -101,23 +127,30 @@ I run feature work through a team of Claude Code subagents — an advisor, an ar
 
 <table>
 <tr>
-<td align="center" valign="top">
+<td align="center" valign="top" width="50%">
 <img src="assets/logo-clevercards.jpg" width="48" height="48" alt="CleverCards logo" /><br/>
 <strong>CleverCards</strong><br/>
-<sub>#1 Finance App, Ireland<br/>99% crash-free · Stripe</sub><br/><br/>
-<a href="https://apps.apple.com/us/app/clevercards/id1521860373">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google&nbsp;Play</a><br/><a href="https://www.clevercards.com/">Website</a>
+<sub>★ #1 Finance, Ireland · Stripe<br/>30–50k DAU · 99% crash-free · app −70% · load −60%<br/>B2B Mobile SDK for iOS, Android &amp; Flutter</sub><br/><br/>
+<a href="https://apps.apple.com/us/app/clevercards/id1521860373">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.clevercards.clevercash">Google&nbsp;Play</a> · <a href="https://www.clevercards.com/">Website</a>
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="50%">
 <img src="assets/logo-shipeace.jpg" width="48" height="48" alt="Shipeace logo" /><br/>
 <strong>Shipeace</strong><br/>
-<sub>AI logistics platform<br/>$1.5M raised</sub><br/><br/>
-<a href="https://www.shipeace.com/en">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app">Google&nbsp;Play</a><br/>&nbsp;
+<sub>AI logistics platform · $1.5M raised<br/>shipment tracking, RAG &amp; document AI<br/>mobile lead · Flutter, Next.js, Python, AWS</sub><br/><br/>
+<a href="https://www.shipeace.com/en">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.logipeace.shipeace_app">Google&nbsp;Play</a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="assets/logo-snapex.jpg" width="48" height="48" alt="SnapEx logo" /><br/>
+<strong>SnapEx</strong><br/>
+<sub>Crypto derivatives exchange<br/>live markets, take-profit / stop-loss trading<br/>rebuilt solo in Flutter as mobile tech lead</sub>
 </td>
 <td align="center" valign="top">
-<img src="assets/logo-arki.png" width="48" height="48" alt="Arki Finance logo" /><br/>
-<strong>Arki Finance</strong><br/>
-<sub>MAS-licensed wealth app<br/>frontend lead</sub><br/><br/>
-<a href="https://apps.apple.com/sg/app/arki-finance/id6733229005">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.optimalvest&amp;hl=en">Google&nbsp;Play</a><br/><a href="https://www.arkifinance.com/">Website</a>
+<img src="assets/logo-acktrails.png" width="48" height="48" alt="ACKTrails logo" /><br/>
+<strong>ACKTrails</strong><br/>
+<sub>Outdoor navigation app for the<br/>Nantucket Conservation Foundation<br/>Flutter · MapBox</sub><br/><br/>
+<a href="https://apps.apple.com/us/app/acktrails/id1462021860">App&nbsp;Store</a> · <a href="https://play.google.com/store/apps/details?id=com.nantucket.acktrails.android">Google&nbsp;Play</a> · <a href="https://acktrails.com/">Website</a>
 </td>
 </tr>
 </table>
@@ -151,6 +184,8 @@ $ echo "need a product shipped across mobile, web and backend? reach out any tim
 ```
 
 <div align="center">
+
+<sub>© 2026 Tony Tran (Trần Mạnh Tuấn) · B.Sc. IT, HCMUNRE · Ho Chi Minh City · UTC+7</sub>
 
 ![visitor count](https://visitor-badge.laobi.icu/badge?page_id=manhtuan1712.manhtuan1712&left_color=23261F&right_color=C8F169&left_text=profile%20views)
 
