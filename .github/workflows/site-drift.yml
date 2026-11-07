@@ -1,0 +1,52 @@
+# Weekly check that README.md still matches the portfolio site.
+# Opens (or updates) one issue labelled `site-drift` when they differ, and closes it once they match.
+name: Check README against the site
+
+on:
+  schedule:
+    - cron: "41 6 * * 1"   # Mondays
+  workflow_dispatch:       # run it by hand from the Actions tab
+
+permissions:
+  contents: read
+  issues: write            # to open, update and close the drift issue
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare README with the site
+        id: check
+        run: |
+          set +e
+          python3 .github/scripts/check_site_drift.py --report drift-report.md
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 1 = drift (handled below); 2 = the site could not be read, which should fail the job visibly
+          if [ "$code" -eq 2 ]; then exit 2; fi
+          exit 0
+
+      - name: Open or update the drift issue
+        if: steps.check.outputs.code == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create site-drift --color C8F169 --description "README differs from the portfolio site" || true
+          existing=$(gh issue list --label site-drift --state open --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file drift-report.md
+          else
+            gh issue create --title "README is out of sync with the portfolio site" --label site-drift --body-file drift-report.md
+          fi
+
+      - name: Close the drift issue once everything matches
+        if: steps.check.outputs.code == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --label site-drift --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "README and the site match again."
+          done

@@ -165,15 +165,13 @@ ARIS Vietnam      Android Developer        Mar 2017 — Jun 2018    first role, 
 
 ![followers](https://img.shields.io/github/followers/tonytzan?style=flat-square&color=C8F169&labelColor=0F100D&label=followers)
 ![stars](https://img.shields.io/github/stars/tonytzan?style=flat-square&color=C8F169&labelColor=0F100D&label=stars)
-![repos](https://img.shields.io/badge/repos-41-C8F169?style=flat-square&labelColor=0F100D)
+![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftonytzan&query=%24.public_repos&label=repos&style=flat-square&color=C8F169&labelColor=0F100D)
 ![experience](https://img.shields.io/badge/experience-9%2B_years-C8F169?style=flat-square&labelColor=0F100D)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonytzan/tonytzan/output/snake-dark.svg" />
   <img alt="Contribution snake eating the contribution graph" src="https://raw.githubusercontent.com/tonytzan/tonytzan/output/snake.svg" />
 </picture>
-
-![streak stats](https://streak-stats.demolab.com?user=tonytzan&hide_border=true&background=0F100D&ring=C8F169&fire=FFB14A&currStreakNum=EDEEE8&sideNums=C8F169&currStreakLabel=C8F169&sideLabels=8C9084&dates=8C9084&stroke=2A2D25)
 
 </div>
 
@@ -187,6 +185,5 @@ $ echo "need a product shipped across mobile, web and backend? reach out any tim
 
 <sub>© 2026 Tony Tran (Trần Mạnh Tuấn) · B.Sc. IT, HCMUNRE · Ho Chi Minh City · UTC+7</sub>
 
-![visitor count](https://visitor-badge.laobi.icu/badge?page_id=manhtuan1712.manhtuan1712&left_color=23261F&right_color=C8F169&left_text=profile%20views)
 
 </div>
